@@ -33,13 +33,13 @@
                 "tag": "IP->Iran, kolandone",
                 "local_address": [
                         "172.16.0.2/32",
-                        "2606:4700:110:821e:bd02:1b6f:60fd:fe12/128"
+                        "2606:4700:110:8d99:888a:a9ce:d3cd:dc63/128"
                 ],
-                "private_key": "6CHWnJwyomSArRDivvDQm491cSmC4fyFfiI4sS6eunY=",
-                "server": "162.159.192.153",
-                "server_port": 7103,
+                "private_key": "KJNpdhTGuKPY54FHxZbsIJX0fuztb3iD2uUp6KX12Ho=",
+                "server": "188.114.96.187",
+                "server_port": 8319,
                 "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
-                "reserved": [174,62,31],
+                "reserved": [173,122,172],
                 "mtu": 1280,
                 "fake_packets": "5-10"
                 },
@@ -49,13 +49,13 @@
                 "detour": "IP->Iran, kolandone",
                 "local_address": [
                         "172.16.0.2/32",
-                        "2606:4700:110:8f01:6f14:a30d:e67:7f4a/128"
+                        "2606:4700:110:802d:ae2a:1c4c:64d6:fa/128"
                 ],
-                "private_key": "AOd7qKE0oDQwkXXj+ukLdGt5d7Y//9gayrAmz3yD43M=",
-                "server": "162.159.192.153",
-                "server_port": 7103,
+                "private_key": "gJMIbd6cE5fixlad0uoUMVFg9xXma7xHnnKWZb3Yfmw=",
+                "server": "188.114.96.187",
+                "server_port": 8319,
                 "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
-                "reserved": [44,29,171],
+                "reserved": [168,119,123],
                 "mtu": 1280,
                 "fake_packets": "5-10"
                 },
